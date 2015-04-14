@@ -1,0 +1,10 @@
+name: UprisingChat
+version: 1.0
+description: A Chat Plugin For The Uprising Server.
+
+main: me.azewilous.uprising.Chat
+
+commands:
+   uchat:
+     description: Chat Command.
+     usage: /uchat
